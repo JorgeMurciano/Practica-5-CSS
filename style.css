@@ -1,0 +1,48 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    border: solid 5px;
+    text-align: center;
+}
+p.uno{
+    text-align: justify;
+    font-size: x-large;
+    border-left: double 20px red;
+    border-top: double 20px red;
+}
+p.dos{
+    text-align: justify;
+    font-size: x-large;
+    border-color: blue green;
+    border-width: 5px 10px 20px 30px;
+    border-style: dashed;
+}
+p.tres{
+    text-align: justify;
+    font-size: x-large;
+    border-color: gold;
+    border-width: 30px 10px;
+    border-style: double;
+}
+p.cuatro{
+    text-align: justify;
+    font-size: x-large;
+    border-color: green white blue;
+    border-width: 20px;
+    border-style: solid none;
+}
+p.cinco{
+    text-align: justify;
+    font-size: x-large;
+    border-color: red black black;
+    border-width: 30px;
+    border-style: dashed solid dotted;
+}
+p.seis{
+    text-align: justify;
+    font-size: x-large;
+    border-color: black black black red;
+    border-width: 10px 30px 20px;
+    border-style: dotted solid dashed double;
+}
